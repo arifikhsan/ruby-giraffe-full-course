@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 puts 'Enter a number: '
-number_one = gets.chomp
+number_one = gets.chomp.to_f
 puts 'Enter another number: '
-number_two = gets.chomp
+number_two = gets.chomp.to_f
 
-puts number_one.to_i + number_two.to_i
+puts number_one + number_two
