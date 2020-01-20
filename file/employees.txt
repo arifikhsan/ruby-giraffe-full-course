@@ -1,0 +1,5 @@
+jim, sales
+andy, saleskelly, customer service
+creed, quality assurance
+michael, manager
+oscar, accounting
