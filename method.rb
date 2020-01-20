@@ -5,3 +5,11 @@ def sayhi(name = 'no name', age = -75)
 end
 
 sayhi
+
+def aaa
+  puts 'aaaaaa'
+  aaa
+end
+
+aaa
+
