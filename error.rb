@@ -37,3 +37,32 @@ rescue TypeError => e
   puts e
   puts 'wrong type'
 end
+
+# ! LoadError
+# ! NotImplementedError
+# ! SyntaxError
+# ! ScriptError
+# ! NoMemoryError
+# ! SecurityError
+# ! SignalException
+# ! Exception
+# ! IndexError
+# ! EncodingError
+# ! NameError
+# ! NoMethodError
+# ! RangeError
+# ! Interrupt
+# ! StandardError
+# ! ArgumentError
+# ! UncaughtThrowError
+# ! FiberError
+# ! IOError
+# ! EOFError
+# ! KeyError
+# ! StopIteration
+# ! SystemCallError
+# ! SystemExit
+# ! SystemStackError
+# ! RuntimeError
+# ! RegexpError
+# ! FloatDomainError
